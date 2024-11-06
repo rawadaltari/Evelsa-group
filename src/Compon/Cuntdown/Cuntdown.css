@@ -1,0 +1,19 @@
+.contdown {
+    font-size: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    color: #333;
+}
+
+h4 {
+    
+    color: #333;
+    font-weight: 600;
+
+}
+
+span {
+    color: #DB4444;
+}

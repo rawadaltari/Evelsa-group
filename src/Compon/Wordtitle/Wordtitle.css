@@ -1,0 +1,14 @@
+.word-title{
+    padding-top: 40px ;
+    color:#DB4444;
+    display: flex;
+    align-items:flex-start;
+    justify-content: start;
+}
+.word-title p{
+    color: #DB4444;
+    font-weight: 600;
+    padding-left: 10px;
+    font-size: 16px;
+    font-family: roboto;
+}

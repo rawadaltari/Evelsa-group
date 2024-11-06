@@ -1,0 +1,20 @@
+.product {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 10px;
+   
+}
+.product h2{
+    font-weight: bold;
+    font-size: 36px;
+}
+ .product svg {
+    border-radius: 50%;
+    background-color: #f5f5f58d;
+    width: 40px;
+    height:40px;
+    margin-left: 19px;
+    margin-top: 10px;
+ }

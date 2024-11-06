@@ -1,0 +1,23 @@
+.cart{
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-group{
+   margin-top: 100px;
+
+    
+}
+.form-group label{
+    color: #544f4fd4;
+    font-family: roboto;
+    font-size: 20px;
+}
+.form-group input{
+    border: none;
+    border-bottom: 1px solid #cbcbcb;
+}
+p{
+    text-align: center;
+}

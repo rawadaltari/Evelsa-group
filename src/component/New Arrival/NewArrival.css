@@ -1,0 +1,11 @@
+.NewArrival {
+    display: flex;
+    flex-flow: row wrap;
+   
+    padding-top: 40px;
+
+}
+.item {
+    margin-top: 10px;
+    align-self: flex-start;
+}

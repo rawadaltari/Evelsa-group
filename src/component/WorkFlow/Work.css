@@ -1,0 +1,9 @@
+.work{
+    text-align: center;
+    margin-top: 150px;
+}
+@media (max-width:600px) {
+    .work img{
+      padding-top: 25px;
+    }
+}
